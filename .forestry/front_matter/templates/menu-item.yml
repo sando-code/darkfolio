@@ -26,3 +26,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- Menu/wayguy-sando.md
